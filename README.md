@@ -1,8 +1,3 @@
-Great Rahul 👍
-Here is a clean and professional README.md content for your Library Management Database Project (PostgreSQL – pgAdmin 4).
-
-You can copy this directly into your README.md file.
-
 📚 Library Management System – Database Design
 📌 Project Overview
 
